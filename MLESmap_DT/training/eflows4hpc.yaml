@@ -1,3 +1,5 @@
+apt:
+        - fftw
 spack:
         specs:
                 - compss@3.3
