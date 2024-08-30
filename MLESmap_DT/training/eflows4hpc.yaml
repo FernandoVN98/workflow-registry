@@ -2,6 +2,7 @@ apt:
         - fftw3
         - fftw3-dev
         - pkg-config
+        - libmemcached-dev
 spack:
         specs:
                 - compss@3.3
