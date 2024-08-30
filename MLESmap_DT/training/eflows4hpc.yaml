@@ -1,5 +1,7 @@
 apt:
-        - fftw
+        - fftw3
+        - fftw3-dev
+        - pkg-config
 spack:
         specs:
                 - compss@3.3
