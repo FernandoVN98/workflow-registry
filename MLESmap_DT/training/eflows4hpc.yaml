@@ -10,3 +10,6 @@ spack:
                 - cybershake
 pip:
         - pandas==1.3.5
+        - pyyaml
+        - geopy
+        - utm
