@@ -3,7 +3,7 @@ apt:
         - fftw3-dev
         - pkg-config
         - libmemcached-dev
-        - libc6=2.33-0ubuntu5
+        - libc6=2.32
 spack:
         specs:
                 - compss@3.3
