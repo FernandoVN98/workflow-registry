@@ -8,6 +8,7 @@ spack:
                 - compss@3.3
                 - cybershake
                 - py-dislib@master
+                - autoconf@2.69
 pip:
         - pandas==1.3.5
         - pyyaml
