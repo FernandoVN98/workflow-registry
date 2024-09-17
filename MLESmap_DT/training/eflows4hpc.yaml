@@ -4,6 +4,8 @@ apt:
         - pkg-config
         - libmemcached-dev
         - perl
+        - libperl-dev
+        - libperl
 spack:
         specs:
                 - compss@3.3
