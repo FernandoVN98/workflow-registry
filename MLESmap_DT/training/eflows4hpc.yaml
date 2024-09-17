@@ -3,7 +3,7 @@ apt:
         - fftw3-dev
         - pkg-config
         - libmemcached-dev
-        - autoconf=2.69-11
+        - autoconf2.64
 spack:
         specs:
                 - compss@3.3
