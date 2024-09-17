@@ -6,8 +6,6 @@ apt:
 spack:
         specs:
                 - compss@3.3
-                - py-dislib@master
-                - cybershake
 pip:
         - pandas==1.3.5
         - pyyaml
