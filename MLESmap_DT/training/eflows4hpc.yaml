@@ -3,10 +3,9 @@ apt:
         - fftw3-dev
         - pkg-config
         - libmemcached-dev
-        - perl
-        - libperl-dev
 spack:
         specs:
+                - perl@5.38.0
                 - compss@3.3
                 - py-dislib@master
                 - cybershake
