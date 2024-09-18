@@ -3,14 +3,14 @@ apt:
         - fftw3-dev
         - pkg-config
         - libmemcached-dev
-        - autoconf2.64
+        #- autoconf2.64
 spack:
         specs:
-                - memcached
-                #- compss@3.3
-                #- cybershake
-                #- py-dislib@master
-                #- autoconf@2.69
+                #- memcached
+                - compss@3.3
+                - cybershake
+                - py-dislib@master
+                - autoconf@2.69
 pip:
         - pandas==1.3.5
         - pyyaml
