@@ -1,5 +1,4 @@
 apt:
-        - libfftw3
         - libfftw3-dev
         - pkg-config
         - libmemcached-dev
