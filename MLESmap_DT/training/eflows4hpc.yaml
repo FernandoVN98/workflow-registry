@@ -1,6 +1,6 @@
 apt:
         - fftw3
-        - fftw3-dev
+        - libfftw3-dev
         - pkg-config
         - libmemcached-dev
         #- autoconf2.64
