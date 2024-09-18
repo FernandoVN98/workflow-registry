@@ -7,8 +7,8 @@ apt:
 spack:
         specs:
                 #- memcached
-                - compss@3.3
-                - cybershake
+                #- compss@3.3
+                #- cybershake
                 - py-dislib@master
                 #- autoconf@2.69
 pip:
