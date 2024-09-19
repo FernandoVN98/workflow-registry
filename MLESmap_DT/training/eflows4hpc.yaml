@@ -5,6 +5,7 @@ apt:
         #- autoconf2.64
 spack:
         specs:
+                - py-setuptools@68.0.0
                 #- memcached
                 #- compss@3.3
                 #- cybershake
