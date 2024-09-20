@@ -6,8 +6,7 @@ apt:
 spack:
         specs:
                 #- py-flit-core@3.8.0
-                - py-meson-python@0.16.0
-                - py-setuptools@62.3.2
+                - py-setuptools@59.4.0
                 #- memcached
                 #- compss@3.3
                 #- cybershake
