@@ -17,4 +17,3 @@ pip:
         - pyyaml
         - geopy
         - utm
-        - meson-python
