@@ -5,7 +5,7 @@ apt:
         #- autoconf2.64
 spack:
         specs:
-                - py-flit-core@3.8.0
+                #- py-flit-core@3.8.0
                 - py-setuptools@63.0.0
                 #- memcached
                 #- compss@3.3
