@@ -1,5 +1,6 @@
 apt:
-        - libfftw3-dev
+        - fftw3
+        - fftw3-dev
         - pkg-config
         - libmemcached-dev
 spack:
