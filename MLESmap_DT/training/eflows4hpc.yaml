@@ -5,7 +5,7 @@ apt:
         - libmemcached-dev
 spack:
         specs:
-                - compss@3.3
+                - compss@3.3.1
                 - cybershake
                 - py-dislib@master
 pip:
