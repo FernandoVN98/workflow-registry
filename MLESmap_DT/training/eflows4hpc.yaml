@@ -4,6 +4,7 @@ apt:
         - pkg-config
         - libmemcached-dev
         - libbz2-dev
+        - liblzma-dev
 spack:
         specs:
                 - compss@3.3.1
