@@ -5,8 +5,6 @@ apt:
         - libmemcached-dev
         - libbz2-dev
         - liblzma-dev
-        - slurmd
-        - slurmctld
 spack:
         specs:
                 - compss@3.3.1
